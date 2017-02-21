@@ -6,7 +6,6 @@
     "electron": "^1.4.15"
   },
   "scripts": {
-    "prestart": "npm install",
     "start": "electron ."
   },
   "dependencies": {
